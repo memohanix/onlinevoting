@@ -17,7 +17,7 @@
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Setting <span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="#">State</a></li>
+                        <li><a href="/onlinevoting/setting/states.php">State</a></li>
                         <li><a href="#">Voting Area</a></li>
                         <li><a href="#">Party</a></li>
                         <li><a href="voter.php">Voter</a></li>
